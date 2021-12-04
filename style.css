@@ -343,8 +343,9 @@ a.active, a:hover
 }
 
 .box1 h3{
+    color: white;
     line-height: 20px;
-	color: white;
+	
 }
 
 .box1 img{
